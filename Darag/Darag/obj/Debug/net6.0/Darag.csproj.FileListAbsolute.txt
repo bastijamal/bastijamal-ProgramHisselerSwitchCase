@@ -1,0 +1,15 @@
+C:\Users\CA.R215.18\Desktop\Darag\Darag\bin\Debug\net6.0\Darag.exe
+C:\Users\CA.R215.18\Desktop\Darag\Darag\bin\Debug\net6.0\Darag.deps.json
+C:\Users\CA.R215.18\Desktop\Darag\Darag\bin\Debug\net6.0\Darag.runtimeconfig.json
+C:\Users\CA.R215.18\Desktop\Darag\Darag\bin\Debug\net6.0\Darag.dll
+C:\Users\CA.R215.18\Desktop\Darag\Darag\bin\Debug\net6.0\Darag.pdb
+C:\Users\CA.R215.18\Desktop\Darag\Darag\obj\Debug\net6.0\Darag.csproj.AssemblyReference.cache
+C:\Users\CA.R215.18\Desktop\Darag\Darag\obj\Debug\net6.0\Darag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.18\Desktop\Darag\Darag\obj\Debug\net6.0\Darag.AssemblyInfoInputs.cache
+C:\Users\CA.R215.18\Desktop\Darag\Darag\obj\Debug\net6.0\Darag.AssemblyInfo.cs
+C:\Users\CA.R215.18\Desktop\Darag\Darag\obj\Debug\net6.0\Darag.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.18\Desktop\Darag\Darag\obj\Debug\net6.0\Darag.dll
+C:\Users\CA.R215.18\Desktop\Darag\Darag\obj\Debug\net6.0\refint\Darag.dll
+C:\Users\CA.R215.18\Desktop\Darag\Darag\obj\Debug\net6.0\Darag.pdb
+C:\Users\CA.R215.18\Desktop\Darag\Darag\obj\Debug\net6.0\Darag.genruntimeconfig.cache
+C:\Users\CA.R215.18\Desktop\Darag\Darag\obj\Debug\net6.0\ref\Darag.dll

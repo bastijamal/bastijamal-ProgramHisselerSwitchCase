@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4AECA33A-60AE-44B0-89F4-EED82F720BB4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeAcademy/Program.cs">
+    <Files>
+      <File FileName="CodeAcademy/Program.cs" Line="1" Column="1" />
+      <File FileName="CodeAcademy/Group.cs" Line="1" Column="1" />
+      <File FileName="CodeAcademy/Student.cs" Line="13" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodeAcademy" expanded="True">
+            <Node name="CodeAcademy" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CodeAcademy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

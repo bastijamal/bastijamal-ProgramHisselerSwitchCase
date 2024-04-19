@@ -1,0 +1,5 @@
+/Users/besticamalova/Documents/GitHub/CodeAcademy/CodeAcademy/CodeAcademy/obj/Release/net7.0/CodeAcademy.csproj.AssemblyReference.cache
+/Users/besticamalova/Documents/GitHub/CodeAcademy/CodeAcademy/CodeAcademy/obj/Release/net7.0/CodeAcademy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/besticamalova/Documents/GitHub/CodeAcademy/CodeAcademy/CodeAcademy/obj/Release/net7.0/CodeAcademy.AssemblyInfoInputs.cache
+/Users/besticamalova/Documents/GitHub/CodeAcademy/CodeAcademy/CodeAcademy/obj/Release/net7.0/CodeAcademy.AssemblyInfo.cs
+/Users/besticamalova/Documents/GitHub/CodeAcademy/CodeAcademy/CodeAcademy/obj/Release/net7.0/CodeAcademy.csproj.CoreCompileInputs.cache
